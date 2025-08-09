@@ -377,4 +377,7 @@
     color: white;
     border-top: 5px solid hotpink; /* borda rosa em cima */
   }
+  #meu-titulo {
+    color: rgb(228, 38, 130);
+  }
   
